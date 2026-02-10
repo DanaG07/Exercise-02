@@ -1,0 +1,57 @@
+.Titulo {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: darkviolet;
+  font-size: 100px;
+}
+.Nombre {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: magenta;
+  font-size: 50px;
+}
+.div001 {
+  background-color: brown;
+  height: 200px;
+  display: flex;
+}
+.div002 {
+  background-color: aquamarine;
+  height: 200px;
+}
+.div003 {
+  background-color: darkorange;
+  height: 100px;
+}
+.div004 {
+  background-color: cornsilk;
+  height: 50px;
+}
+.div005 {
+  background-color: blue;
+  height: 50px;
+  width: 50%;
+}
+.div006 {
+  background-color: darkcyan;
+  height: 50px;
+  width: 50%;
+}
+.div007 {
+  background-color: deepskyblue;
+  height: 50px;
+  width: 50%;
+}
+.flex001 {
+  height: 100px;
+  width: 100px;
+  background-color: aliceblue;
+}
+.flex002 {
+  height: 100px;
+  width: 100px;
+  background-color: aquamarine;
+}
+.flex003 {
+  height: 100px;
+  width: 100px;
+  background-color: blueviolet;
+}
